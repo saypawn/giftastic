@@ -1,0 +1,86 @@
+body {
+	background: url(../css/images/dbzbackground.jpg);
+    background-size: 100%;
+}
+
+.container {
+	width: 80%;
+	position: absolute;
+	top: 450px;
+	left: 10%;
+	padding-bottom: 90px;
+}
+
+.jumbotron {
+	background: url(../css/images/dbzbg.jpg) center center no-repeat;
+	height: 500px;
+}
+
+.individual-gifs {
+	float: left;
+	margin: 10px;
+}
+
+.input-label {
+	font-size: 20px;
+	color: black;
+}
+
+.character-btn {
+	background-color: #D65947;
+	border-radius: 5px;
+	border: none;
+	padding: 10px 15px 10px 15px;
+	margin: 5px;
+	color: white;
+}
+
+.character-btn:hover {
+	background-color: #7B2F2C;
+}
+
+.rating-text {
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+}
+
+.throne {
+	position: relative;
+	left: 0%;
+}
+
+#dbz-buttons {
+	width: 100%;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+
+#add-character {
+	background-color: #37B7BF;
+	border: none;
+	color: white;
+	margin-top: 14px;
+	padding: 10px;
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+}
+
+#add-character:hover {
+	background-color: #375D75;
+}
+
+
+
+.rating {
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+
