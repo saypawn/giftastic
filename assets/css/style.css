@@ -1,6 +1,9 @@
 body {
 	background: url(../css/images/dbzbackground.jpg);
-    background-size: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	
 }
 
 .container {
@@ -14,6 +17,7 @@ body {
 .jumbotron {
 	background: url(../css/images/dbzbg.jpg) center center no-repeat;
 	height: 500px;
+	
 }
 
 .individual-gifs {
